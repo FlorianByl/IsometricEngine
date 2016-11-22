@@ -1,0 +1,905 @@
+Map version : 1.0
+_layers.size()1
+MEGA TEST 0 ::: 11
+MEGA TEST 2 ::: 11
+KUKU
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+
+_layers[0]->data[x] = 11
+----------------------
+TileNumber : 11
+TextureTS_Size.x640
+tileSize.x64
+---RESULTS---
+tx : 1
+ty : 1
+

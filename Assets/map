@@ -1,0 +1,32 @@
+{ "height":100,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzt1LEJAAAMw7BO\/f\/kXpFCQJp8gWcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\/mygARL8CmjhV0ALvwIAAAAAAACaHBjoAKk=",
+         "encoding":"base64",
+         "height":100,
+         "name":"Calque de Tile 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"isometric",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"IsoTileset.json"
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":100
+}
